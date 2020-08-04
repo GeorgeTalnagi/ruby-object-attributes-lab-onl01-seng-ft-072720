@@ -9,7 +9,6 @@ class Dog
     @my_name 
   end 
   
-  def 
 end 
 
 
